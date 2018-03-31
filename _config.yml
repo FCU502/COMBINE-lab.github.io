@@ -28,9 +28,9 @@ avatar: "/img/combine_lab_logo.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Software: "software"
-  About the lab: "aboutus"
-  Prospective members: "joining"
+  Software: "實驗室成果"
+  About the lab: "關於我們"
+  Prospective members: "加入我們"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
@@ -38,13 +38,13 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Rob Patro 
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: github.com/COMBINE-lab # eg. daattali
-  twitter: nomad421 # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  name: 張潤淋 
+  email: "gino6178@gmail.com"
+  facebook: 張浚瑀  # eg. daattali
+  github: https://fcu502.github.io/ # eg. daattali
+  twitter:  # eg. daattali
+  linkedin:   # eg. "pub/dean-attali/8/946/143"
+  stackoverflow:  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
