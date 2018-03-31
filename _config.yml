@@ -29,8 +29,8 @@ avatar: "/img/combine_lab_logo.jpg"
 navbar-links:
   Home: ""
   Software: "Achievement"
-  About the lab: "about us"
-  Prospective members: "join us"
+  About the lab: "about_us"
+  Prospective members: "join_us"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
