@@ -9,7 +9,7 @@ published: true
 
 ## 如果你找不到人?
 
-  你可以選擇email gino6178@gmail.com 詢問
+  你可以選擇email D0349480@mail.fcu.edu.tw 詢問
   或來到電通407找老大 林家白
 
 
