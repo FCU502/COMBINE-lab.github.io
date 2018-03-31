@@ -1,42 +1,40 @@
 ---
 layout: page
 title: About Us
-subtitle: Better Biology through Better Algorithms
+subtitle:逢甲電通王者
 published: true
 ---
 
-The COMBINE lab was created in the fall of 2014, when [Rob Patro](http://www.robpatro.com) joined the Computer Science Department at Stony Brook University.  The lab has since grown considerably.  Learn more about us below!
+無線傳輸實驗室2018/3月建立之實驗室網站
+### 研究方向
 
-### Research Interests
+我們擁有廣大領域，爆肝的實驗室生涯，你想做啥就來吧!
 
-The research interests of our lab broadly span many areas of computational biology and bioinformatics.  Some of our main areas of interest include:
+  * 5G
+  * Robot
+  * Deep learning
+  * IOT
 
-  * Algorithms for high-throughput transcriptomics (RNA-seq)
-    * assembly, quantification, *de novo* analysis, differential expression
-  * Biological network analysis 
-    * how networks evolve over time, ancestral network inference, network alignment
-  * Chromatin structure and epigenetic regulation
-    * long-range regulation, structure / function relationship, analysis of Hi-C data
-  * Data representation and storage
-    * read compression, dynamic text indexing, direct query of compressed representations
-  
-### Lab Members 
+### 比賽方向
 
-#### Lab Director
-Rob Patro
-
-#### Ph.D. Students (in alphabetical order)
- * Laraib Malik
- * [Hirak Sarkar](https://sites.google.com/a/cs.stonybrook.edu/hirak/)
- * [Avi Srivastava](http://k3yavi.github.io/)
- * Mohsen Zakeri
+  * IOT農業
+  * ROBOT
 
 
-#### MS Students
- * Nitish Gupta
- * Komal Sanjeev
 
-#### Past Lab Members
- * Srikant Aggarwal
- * Eshita Bheda
- * Ayush Sengupta
+### 實驗室成員
+
+#### 實驗室老闆
+林維崙教授
+
+####  碩士學生
+ * 張潤淋
+ * 林家白
+ * 吳奕達
+
+
+
+#### 專題生
+ * 傅千維
+ * 侯健全
+
