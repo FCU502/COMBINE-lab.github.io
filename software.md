@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 實驗室成果
-subtitle: Well-implemented awesomeness 
+subtitle: 以下為實驗室成果
 ---
 
 
