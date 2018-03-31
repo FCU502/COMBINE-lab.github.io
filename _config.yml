@@ -28,9 +28,9 @@ avatar: "/img/combine_lab_logo.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Software: "Achievement"
-  About the lab: "about_us"
-  Prospective members: "join_us"
+  實驗室成果: "Achievement"
+  關於我們: "about_us"
+  加入我們: "join_us"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
