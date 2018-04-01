@@ -13,7 +13,8 @@ subtitle: 以下為實驗室成果
 
  * #### ROBOT
 
-<img src="/img/3Dface.jpg"  width="40%" height="40%" /><img src="/img/robotall.jpg"  width="40%" height="40%" /><img src="/img/wall.jpg"  width="40%" height="40%" />
+<img src="/img/3Dface.jpg"  width="40%" height="40%" /><img src="/img/wall.jpg"  width="40%" height="40%" />
+<img src="/img/robotall.jpg"  width="40%" height="40%" />
 
  * #### 3D列印
 
