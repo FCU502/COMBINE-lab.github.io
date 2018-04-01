@@ -4,10 +4,10 @@ title: 實驗室成果
 subtitle: 以下為實驗室成果
 ---
 
-### 實驗室成果
+## 實驗室成果
+
 
 #### 5G
-
 
 [Source](http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.Wei-Lun%20Lin.QT.&newsearch=true)
 
@@ -21,7 +21,7 @@ subtitle: 以下為實驗室成果
 
 #### GAN
 
-### 比賽成果
+## 比賽成果
 
 #### 遠傳物聯網競賽特別獎
 
