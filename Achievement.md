@@ -4,7 +4,7 @@ title: 實驗室成果
 subtitle: 以下為實驗室成果
 ---
 
-
+### 實驗室成果
 
 #### 5G
 
@@ -13,6 +13,9 @@ subtitle: 以下為實驗室成果
 
 #### ROBOT
 
+#### 3D列印
+
+![avatar](/img/3Dprint.jpg)
 
 
 #### IOT 農業
@@ -32,4 +35,4 @@ subtitle: 以下為實驗室成果
 
 #### 海峽兩岸創客大賽第三
 
-![avatar](/img/china.jpg)
+![avatar]("/img/china.jpg" style="zoom:50%")
