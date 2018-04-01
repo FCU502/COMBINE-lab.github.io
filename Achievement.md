@@ -7,19 +7,19 @@ subtitle: 以下為實驗室成果
 ## 實驗室成果
 
 
-#### 5G
+ * #### 5G
 
 [Source](http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.Wei-Lun%20Lin.QT.&newsearch=true)
 
-#### ROBOT
+ * #### ROBOT
 
-#### 3D列印
+ * #### 3D列印
 
 <img src="/img/3Dprint.jpg"  width="40%" height="40%" />
 
-#### IOT 農業
+ * #### IOT 農業
 
-#### GAN
+ * #### GAN
 ------------------------------------------------------------
 ## 比賽成果
 
