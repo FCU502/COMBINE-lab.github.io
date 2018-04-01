@@ -35,4 +35,4 @@ subtitle: 以下為實驗室成果
 
 #### 海峽兩岸創客大賽第三
 
-![avatar](/img/china.jpg"=250x250)
+![avatar](/img/china.jpg" =250x250)
