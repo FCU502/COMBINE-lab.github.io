@@ -13,7 +13,7 @@ subtitle: 以下為實驗室成果
 
 #### ROBOT
 
-avatar: "/img/combine_lab_logo.jpg"
+![avatar](/img/wallpapaer.jpg)
 
 #### IOT 農業
 
