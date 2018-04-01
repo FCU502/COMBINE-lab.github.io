@@ -15,25 +15,23 @@ subtitle: 以下為實驗室成果
 
 #### 3D列印
 
-![avatar](/img/3Dprint.jpg)
-
+<img src="/img/3Dprint.jpg"  width="40%" height="40%" />
 
 #### IOT 農業
 
 #### GAN
 
-
 ### 比賽成果
 
 #### 遠傳物聯網競賽特別獎
 
-![avatar](/img/hi.jpg)
+<img src="/img/hi.jpg"  width="40%" height="40%" />
 
 #### 逢甲通訊系專題競賽第一
 
-![avatar](/img/fcucomp.jpg)
+<img src="/img/fcucomp.jpg"  width="40%" height="40%" />
 
 #### 海峽兩岸創客大賽第三
 
-<img src="/img/china.jpg"  width="50%" height="50%" />
+<img src="/img/china.jpg"  width="40%" height="40%" />
 
