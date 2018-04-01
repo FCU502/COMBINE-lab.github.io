@@ -35,5 +35,5 @@ subtitle: 以下為實驗室成果
 
 #### 海峽兩岸創客大賽第三
 
-<img src="/img/china.jpg"  width="250" height="250" />
+<img src="/img/china.jpg"  width="50%" height="50%" />
 
