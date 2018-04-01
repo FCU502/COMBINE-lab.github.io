@@ -18,3 +18,18 @@ subtitle: 以下為實驗室成果
 #### IOT 農業
 
 #### GAN
+
+
+### 比賽成果
+
+#### 遠傳物聯網競賽特別獎
+
+![avatar](/img/hi.jpg)
+
+#### 逢甲通訊系專題競賽第一
+
+![avatar](/img/fcucomp.jpg)
+
+#### 海峽兩岸創客大賽第三
+
+![avatar](/img/china.jpg)
