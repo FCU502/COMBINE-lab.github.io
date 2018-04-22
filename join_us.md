@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-bigimg: /img/fengchia.jpg	
+bigimg: /img/combine_lab_logo.png
 ---
 # 有興趣加入嗎?
 
