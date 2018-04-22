@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+bigimg: /img/fengchia.jpg	
 ---
 # 有興趣加入嗎?
 
