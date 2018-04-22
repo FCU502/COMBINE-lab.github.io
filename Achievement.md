@@ -1,5 +1,5 @@
 ---
-bigimg: /img/fengchia.jpg	
+
 layout: page
 title: 實驗室成果
 subtitle: 以下為實驗室成果
